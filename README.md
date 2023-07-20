@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JONATHAN-BOLIBENGA01
-- 👀 I’m interested in  backend development of web applications 
+- 👀 I’m interested in  backend development of web application 
 - 🌱 I’m currently learning expressJS and mongodb
 - 💞️ I’m a student at esisalama 
 - 📫  reach me  on linkdin : www.linkedin.com/in/jonathan-wetoke-b6508a271
