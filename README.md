@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JONATHAN-BOLIBENGA01
-- 👀 I’m interested in  backend development of web application 
+- 👋 Hi, I’m JONATHAN BOLIBENGA WETOKYA
+- 👀 I’m interested in  backend development 
 - 🌱 I’m currently javascript/typescript developer
 - 💞️ I’m a student at esisalama 
 - 📫  reach me  on linkdin :https://www.linkedin.com/in/jonathan-wetokya/
